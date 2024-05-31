@@ -21,4 +21,4 @@ Check out our paper at: https://www.biorxiv.org/content/10.1101/2024.05.06.59278
 
 
 
-STable_1.xlsx
+This supplementary table (STable_1.xlsx) includes mutations in the benchmark that are observed in the TCGA pan-cancer dataset.
