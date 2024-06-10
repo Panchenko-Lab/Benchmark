@@ -1,3 +1,6 @@
+**Cite the benchmark:**
+Ostroverkhova, D., Sheng, Y., & Panchenko, A. (2024). Are next-generation pathogenicity predictors applicable to cancer? Journal of Molecular Biology, 168, 168644. https://doi.org/10.1016/j.jmb.2024.168644
+
 The comprehensive experimental benchmark of cancer driver and neutral mutations. Mutation annotations were obtained from the previous seven experimental studies:
 
 1) Martelotto, L.G. et al. Benchmarking mutation effect prediction algorithms using functionally validated cancer-related missense mutations. Genome Biol 15, 484 (2014).
@@ -17,8 +20,6 @@ The comprehensive experimental benchmark of cancer driver and neutral mutations.
 'Driver' and 'passenger' labels were assigned according to Brown AL, Li M, Goncearenco A, Panchenko AR Finding driver mutations in cancer: Elucidating the role of background mutational processes.
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006981
 
-Check out our paper at: https://www.biorxiv.org/content/10.1101/2024.05.06.592789v1.abstract
-
-
+Check out our paper at: https://www.sciencedirect.com/science/article/pii/S0022283624002390
 
 This supplementary table (STable_1.xlsx) includes mutations in the benchmark that are observed in the TCGA pan-cancer dataset.
