@@ -15,7 +15,7 @@ The comprehensive experimental benchmark of cancer driver and neutral mutations.
 
 6) Ng, P.K. et al. Systematic Functional Annotation of Somatic Mutations in Cancer. Cancer Cell 33(3), 450-462(2018)
 
-7) Hartmaier, R. J. et al. High-throughput genomic profiling of adult solid tumors reveals novel insights into cancer pathogenesis. Cancer Research 77, 2464-2475 (2017)
+7) Kim, E. et al. Systematic functional interrogation of rare cancer variants identifies oncogenic alleles. Cancer Discov. 6, 714–26(2016)
 
 'Driver' and 'passenger' labels were assigned according to Brown AL, Li M, Goncearenco A, Panchenko AR Finding driver mutations in cancer: Elucidating the role of background mutational processes.
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006981
