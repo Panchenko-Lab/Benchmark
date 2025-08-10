@@ -23,3 +23,6 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006981
 Check out our paper at: https://www.sciencedirect.com/science/article/pii/S0022283624002390
 
 This supplementary table (STable_1.xlsx) includes mutations in the benchmark that are observed in the TCGA pan-cancer dataset.
+
+**Cite the updated benchmark:**
+Ostroverkhova, D., Sheng, Y., Rogozin, I., Panchenko, A. (2025). Looking Across Protein Domains to Identify Driver Mutations in Cancer. Protein Science. 
