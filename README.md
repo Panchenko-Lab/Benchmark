@@ -59,10 +59,3 @@ The file `STable_1.xlsx` specifically includes benchmark mutations observed in t
 * **2024 JMB Paper:** [https://www.sciencedirect.com/science/article/pii/S0022283624002390](https://www.sciencedirect.com/science/article/pii/S0022283624002390)
 * **2025 Protein Science Paper:** *(under review, DOI)*
 
----
-
-## 🧬 Summary
-
-These benchmarks provide high-confidence, experimentally validated mutation sets essential for assessing the performance and applicability of variant effect prediction methods in cancer genomics. Please cite the appropriate publication(s) when using the datasets.
-
----
